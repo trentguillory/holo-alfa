@@ -1,27 +1,27 @@
 
 # The name of your website.
-name: Holo Alfa
+name: TG's Blog
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: The personal blog of Trent Guillory. Read at your own risk. 
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Welcome to the blog. This is where I post my half-baked thoughts. (The raw ones stay in my notebook.)
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Trent Guillory # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: trentmichaelguillory@gmail.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: http://trentguillory.com
+baseurl: "/blog"
 
 # language attribute in <html> element.
 lang: en
