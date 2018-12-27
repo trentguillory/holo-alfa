@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: TG's Blog
+name: tg/blog
 
 description:
 
@@ -39,7 +39,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: Thanks for reading!<br>If you'd like to talk about anything written here, email me. trent michael guillory at gmail.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
